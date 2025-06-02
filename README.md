@@ -23,15 +23,9 @@ To train, motivate, and prepare minority ethnic (ME) women to confidently join a
 
 ---
 
-## 📅 Program Agenda
+## 📅 Workshop Agenda
 
-![Workshop Agenda Visual](https://github.com/mrinalmishra31/Women-On-Boards/blob/main/WOB%20Poster%202.png)
-
----
-
-## 📖 Detailed Agenda (PDF Visual)
-
-![Agenda Slide](https://github.com/mrinalmishra31/Women-On-Boards/blob/main/WOB%20Eventbrite%20Traffic%20Chart.png)
+- 📽 [WOB - Workshop Agenda Video.mp4](https://github.com/mrinalmishra31/Women-On-Boards/blob/main/WOB%20Invite%20Video.mp4)
 
 ### Breakdown
 
@@ -44,7 +38,7 @@ To train, motivate, and prepare minority ethnic (ME) women to confidently join a
 
 ## 🧑‍🏫 Facilitators & Speakers
 
-![Speakers Banner](https://github.com/mrinalmishra31/Women-On-Boards/blob/main/WOB%20LInkedIn%20Post.png)
+![Workshop Agenda Visual](https://github.com/mrinalmishra31/Women-On-Boards/blob/main/WOB%20Poster%202.png)
 
 ---
 
@@ -82,16 +76,13 @@ The following email assets supported registration, reminders, and thank-you outr
 
 ---
 
-## 🎥 Invitation Videos
+## 🎥 Invitation Video
 
 - 📽 [WOB Invitation Video.mp4](https://github.com/mrinalmishra31/Women-On-Boards/blob/main/WOB%20Invitation%20Video.mp4)  
-- 📽 [WOB Invite Video.mp4](https://github.com/mrinalmishra31/Women-On-Boards/blob/main/WOB%20Invite%20Video.mp4)
 
 ---
 
-## 🌸 Thank You Note
-
-### Excerpt from the Thank You Email:
+## 🌸 Excerpt from the Thank You Email:
 
 > “Our participants had a wonderful time listening to you speak… they are very motivated and eager to begin their board journey. We hope to work with you again for our Women on Boards summer session.”
 
@@ -101,7 +92,7 @@ The following email assets supported registration, reminders, and thank-you outr
 
 ## 🏆 Our Achievements
 
-![Achievements](https://github.com/mrinalmishra31/Women-On-Boards/blob/main/WOB%20Linkedin%20Post%202.png)
+![Speakers Banner](https://github.com/mrinalmishra31/Women-On-Boards/blob/main/WOB%20LInkedIn%20Post.png)
 
 - Delivered **68+ research projects**
 - Funded and endorsed by government bodies
