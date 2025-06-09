@@ -112,3 +112,13 @@ The following email assets supported registration, reminders, and thank-you outr
 > Let’s continue to get more **women on boards**—diversity makes decisions better, stronger, and smarter.
 
 © 2022 Economic Lead
+
+---
+
+## 📢 License
+
+This project is part of my professional work experience and is shared solely for professional portfolio reference only.
+
+---
+
+© 2025 | Created by Mrinal Mishra
